@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name: "Felipe Hernández-Martínez"
-  avatar:
+  avatar: "/assets/images/avatar.jpg"
   bio: "Data Scientist · Research Engineer"
   location: "Chile"
 
